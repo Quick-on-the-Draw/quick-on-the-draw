@@ -1,0 +1,23 @@
+{
+    "name": "Quick on the Draw",
+    "description": "An extension to encourage taking breaks to draw",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["storage", "activeTab", "scripting"],
+    "author": "Async Studios",
+    "short_name": "Quick on the Draw",
+    "homepage_url": "https://github.com/katrinkajb/",
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Quick on the Draw",
+        "default_icon": {
+            "16": "/images/get_started16.png"
+        }
+    },
+    "icons": {
+        "16": "/images/get_started16.png"
+    }
+}
