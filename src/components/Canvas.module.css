@@ -1,0 +1,14 @@
+.canvasContainer {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+
+.mainCanvas {
+    border: 1px solid black;
+    align-self: center;
+}
