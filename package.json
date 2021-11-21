@@ -1,5 +1,5 @@
 {
-    "name": "quick-on-the-draw",
+    "name": "quick-on-the-draw-ext",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -35,7 +35,7 @@
             "last 1 safari version"
         ]
     },
-    "description": "Quick on the Draw",
+    "description": "Quick on the Draw Chrome Extension",
     "main": "index.js",
     "repository": {
         "type": "git",
